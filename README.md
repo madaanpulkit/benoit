@@ -7,4 +7,4 @@ We are working with audio/speech and text data. Speech audio, not-so-grammatical
 
 For extracting sentences from news article files we used the script sentenceextractionfiles.ipynb and for adding noise we used addnoise2text.ipynb.
 
-Our model is in benoit,ipynb
+Our model is in benoit.ipynb
